@@ -1,0 +1,9 @@
+/*
+ * this file contains random stuff, just to try out the componentization
+ */
+
+.color {
+  color: blue;
+  display: flex;
+  flex-wrap: nowrap;
+}
